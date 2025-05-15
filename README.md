@@ -79,7 +79,7 @@ endmodule
 Developed by:ANBUDURAI.A
 
 
-RegisterNumber:24013673  */
+RegisterNumber:212224230018
 
 
 **RTL realization**
